@@ -1,4 +1,4 @@
-#Tmail - Terminal mail 
+# Tmail - Terminal mail 
 
 this is CLI tool to access your mails on your terminal, and send mails with terminal.
 
