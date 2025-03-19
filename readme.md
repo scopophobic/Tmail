@@ -6,7 +6,7 @@ this is CLI tool to access your mails on your terminal, and send mails with term
 - buidling with golang 
 - imap libary used
 - fun project
-
+- learning golang
 
 
 
