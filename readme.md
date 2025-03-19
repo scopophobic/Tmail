@@ -13,7 +13,8 @@ this is CLI tool to access your mails on your terminal, and send mails with term
 progress :
 
 - [X] initial set up is done
-- [ ] intergreate imap to access mails(read only for now)
+- [X] intergreate imap 
+- [X] read mail
 - [ ] multi account 
 - [ ] send mail
 - [ ] good TUI for this
